@@ -1,0 +1,4 @@
+#Mon Jul 15 02:24:27 EDT 2019
+base.0=C\:\\Users\\User\\Desktop\\android-twa\\source\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
