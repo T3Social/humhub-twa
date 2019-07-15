@@ -1,2 +1,2 @@
-# humhub-pwa
+# [HumHub](https://humhub.com/) TWA
 WIP
