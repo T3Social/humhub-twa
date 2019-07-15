@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FYV</string>
-    <string name="app_url">https://futayuriverse.com/</string>
-    <string name="app_host">futayuriverse.com/</string>
+    <string name="app_name">HumHub Community</string>
+    <string name="app_url">https://community.humhub.com/dashboard/</string>
+    <string name="app_host">humhub.com/</string>
 </resources>
