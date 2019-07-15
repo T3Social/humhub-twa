@@ -1,4 +1,4 @@
-package com.futayuriverse.pwa;
+package com.humhub.pwa;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
