@@ -2,7 +2,7 @@ name: Labeler
 on: [pull-request, issues]
 
 jobs:
-  label: Kind: Enh
+  label:
 
     runs-on: ubuntu-latest
 
