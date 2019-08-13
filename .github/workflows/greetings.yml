@@ -8,6 +8,6 @@ jobs:
     steps:
     - uses: actions/first-interaction@v1
       with:
-        repo-token: humhub_twa
+        repo-token: bffdcc45ea9e1b8e9d6cf56249b1601004a04530
         issue-message: 'Wow, thanks for your feedback, we'll take a look at this as soon as we can!'' first issue'
         pr-message: 'Hello, thanks for this P/R, we'll get to it when we can!'' first pr'
