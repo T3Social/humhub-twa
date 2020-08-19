@@ -47,7 +47,7 @@ jobs:
     #    uses a compiled language
 
     - run: |
-       make bootstrap
+       make build.gradle
        make release
 
     - name: Perform CodeQL Analysis
