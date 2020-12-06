@@ -5,7 +5,7 @@ This is a simple TWA application for HumHub and should be used as such.
 The following is how to use this template for your own TWA uses.
 
 - Download & Install [Android Studios](https://developer.android.com/studio).
-- Download via git (`git@github.com:Felli/humhub-twa.git`) or the Download ZIP, there is also the option to Open in Desktop if you have [GitHub Desktop](https://desktop.github.com/) installed
+- Download via git (`git@github.com/GreenMeteor/humhub-twa.git`) or the Download ZIP, there is also the option to Open in Desktop if you have [GitHub Desktop](https://desktop.github.com/) installed
 - Find any & all mentions in the whole project of `com.humhub.pwa` and rename it to `com.yourdomain.pwa`.
 - Under `/app/src/main/assets/manifest.json` modify it to match your HumHub instance.
 
