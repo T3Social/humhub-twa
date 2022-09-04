@@ -1,4 +1,7 @@
 # [HumHub](https://humhub.com/) TWA Application
+
+[![Android CI](https://github.com/GreenMeteor/humhub-twa/actions/workflows/android.yml/badge.svg)](https://github.com/GreenMeteor/humhub-twa/actions/workflows/android.yml) [![Java CI](https://github.com/GreenMeteor/humhub-twa/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/GreenMeteor/humhub-twa/actions/workflows/gradle.yml) [![CodeQL](https://github.com/GreenMeteor/humhub-twa/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/GreenMeteor/humhub-twa/actions/workflows/codeql-analysis.yml) 
+
 This is a simple TWA application for HumHub and should be used as such.
 
 ### Configurations
