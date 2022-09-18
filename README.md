@@ -1,5 +1,8 @@
 # [HumHub](https://humhub.com/) TWA Application
 
+> ### Note: Please keep updated in the new repo for this application [HumHub TWA Application](https://github.com/GreenMeteor/humhub-app)
+
+
 [![Android CI](https://github.com/GreenMeteor/humhub-twa/actions/workflows/android.yml/badge.svg)](https://github.com/GreenMeteor/humhub-twa/actions/workflows/android.yml) [![Java CI with Gradle](https://github.com/GreenMeteor/humhub-twa/actions/workflows/gradle.yml/badge.svg)](https://github.com/GreenMeteor/humhub-twa/actions/workflows/gradle.yml) [![Maven CI](https://github.com/GreenMeteor/humhub-twa/actions/workflows/maven.yml/badge.svg)](https://github.com/GreenMeteor/humhub-twa/actions/workflows/maven.yml) [![CodeQL](https://github.com/GreenMeteor/humhub-twa/actions/workflows/codeql.yml/badge.svg)](https://github.com/GreenMeteor/humhub-twa/actions/workflows/codeql.yml)
 
 This is a simple TWA application for HumHub and should be used as such.
